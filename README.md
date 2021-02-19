@@ -9,13 +9,13 @@ A simple calculator with sufficient functionality!
 
 ## iPhone 12
 
-![Portrait](Documentation/iPhone12-light.png)
-![Portrait](Documentation/iPhone12-dark.png)
+![Portrait](Documentation/iphone12-light.png)
+![Portrait](Documentation/iphone12-dark.png)
 
 ## iPod
 
 ![Portrait](Documentation/ipod-light.png)
 ![Portrait](Documentation/ipod-dark.png)
 
-
+Using AutoLayout, It works on all iPhone devices neatly!
 
