@@ -17,5 +17,5 @@ A simple calculator with sufficient functionality!
 ![Portrait](Documentation/ipod-light.png)
 ![Portrait](Documentation/ipod-dark.png)
 
-Using AutoLayout, It works on all iPhone devices neatly!
+Using AutoLayout, It works on all iOS devices neatly!
 
